@@ -1,6 +1,6 @@
 {
 
-    "orderAccessLoyaltyLevel": ["Ambassadør", "Bestevenn", "Venn", "Bekjent"],
+    "orderAccessLoyaltyLevel": [],
     "orderAccessCustomerType": ["ANS", "FAM", "SA", "PRI"],
     "familyAccess": ["ANS", "SA"],
     "neigbourAccess": ["Ambassadør", "Bestevenn", "Venn", "Bekjent"],
