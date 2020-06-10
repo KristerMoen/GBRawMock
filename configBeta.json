@@ -5,7 +5,7 @@
     "familyAccess": ["ANS", "SA"],
     "neigbourAccess": ["Ambassadør", "Bestevenn", "Venn", "Bekjent"],
     "defaultOrderMenuId": 80,
-    "defaultOrderLocationId": 25,
+    "defaultOrderLocationId": 90,
     "orderHistoryDays": 180
   
 }
